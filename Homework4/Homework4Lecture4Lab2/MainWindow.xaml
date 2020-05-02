@@ -1,0 +1,23 @@
+﻿<Window x:Class="Homework4Lecture4Lab2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework4Lecture4Lab2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--INPUT-->
+        <Label x:Name="speedLimitLabel" Content="Enter speed limit:" HorizontalAlignment="Left" Margin="288,46,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="speedLimitTextBox" HorizontalAlignment="Left" Height="23" Margin="425,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <Label x:Name="clockedSpeedLabel" Content="Enter clocked speed:" HorizontalAlignment="Left" Margin="265,82,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="clockedSpeedTextBox" HorizontalAlignment="Left" Height="23" Margin="425,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <!--PROCESS-->
+        <Button x:Name="checkIfSpeedingButton" Content="Check Speed" HorizontalAlignment="Left" Margin="363,153,0,0" VerticalAlignment="Top" Width="110" FontSize="16" Click="CheckIfSpeedingButton_Click"/>
+        <!--OUTPUT-->
+        <Label x:Name="fineLabel" Content="Fine:" HorizontalAlignment="Left" Margin="378,217,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="fineTextBox" HorizontalAlignment="Left" Height="23" Margin="425,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16" IsEnabled="False"/>
+        <Canvas x:Name="speedingCanvas" HorizontalAlignment="Left" Height="100" Margin="425,270,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>
