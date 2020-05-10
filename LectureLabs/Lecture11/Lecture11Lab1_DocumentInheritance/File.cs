@@ -18,7 +18,7 @@ namespace Lecture11Lab1_DocumentInheritance
         public override string ToString()
         {
             System.IO.File.WriteAllText(
-                @"D:\Previous Semesters\2019 Fall\3 - CS 155 - C#-.NET Framework\CS155_CSharp_NETFramework_Coursework\LectureLabs\Lecture11"
+                @"D:\Previous Semesters\2019 Fall\3 - CS 155 - C#-.NET Framework\CS155_CSharp_NETFramework_Coursework\LectureLabs\Lecture11\Lecture11Lab1_DocumentInheritance\"
                 + Pathname, base.ToString());
             return "Wrote file " + Pathname;
         }

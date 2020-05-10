@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lecture14Lab1.Properties
+namespace Lecture14Lab1_NuGet.Properties
 {
 
 

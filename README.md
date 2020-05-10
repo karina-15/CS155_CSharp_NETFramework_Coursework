@@ -86,10 +86,13 @@
   - [**Lecture 11**](LectureLabs/Lecture11)
     - [Lab 1](LectureLabs/Lecture11/Lecture11Lab1_DocumentInheritance): Use inheritance to create an e-mail from a document's text  
       Write to a document
-    - [Lab 2](LectureLabs/Lecture11/Lecture11Lab2_Dictionary): Create a phone book using a Dictionary
-  - [**Lecture **](LectureLabs/Lecture)
-    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
-    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
-  - [**Lecture **](LectureLabs/Lecture)
-    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
-    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
+    - [Lab 2](LectureLabs/Lecture11/Lecture11Lab2_Dictionary): Create phonebook using Dictionary
+  - [**Lecture 12**](LectureLabs/Lecture12)
+    - [Lab 1](LectureLabs/Lecture12/Lecture12Lab1): Use Dictionary to find boy/girl names popularity
+    - [Lab 2](LectureLabs/Lecture12/Lecture12Lab2): Dice class using optional, named, and variable number of parameters
+  - [**Lecture 13**](LectureLabs/Lecture13)
+    - [Lab 1](LectureLabs/Lecture13/Lecture13Lab1_Delegates): Use delegates on methods
+    - [Lab 2](LectureLabs/Lecture13/Lecture13Lab2_3DVectors): Operator overloading with 3D vectors
+	- [Lab 3](LectureLabs/Lecture13/Lecture13Lab2_LINQ): LINQ query with <code>IEnumerable</code> to return data set of people
+  - [**Lecture 14**](LectureLabs/Lecture14)
+    - [Lab 1](LectureLabs/Lecture14/Lecture14Lab1_NuGet): Install NuGet package Newtonsoft.Json for JSON use

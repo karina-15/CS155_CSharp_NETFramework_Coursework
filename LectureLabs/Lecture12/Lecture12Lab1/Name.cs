@@ -8,7 +8,7 @@ namespace Lecture12Lab1
 {
     class Name
     {
-        private int Count { get; set; }
-        private int Rank { get; set; }
+        public int Rank { get; set; }
+        public int Count { get; set; }
     }
 }

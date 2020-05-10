@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Lecture14Lab1
+namespace Lecture14Lab1_NuGet
 {
     /// <summary>
     /// Interaction logic for App.xaml
