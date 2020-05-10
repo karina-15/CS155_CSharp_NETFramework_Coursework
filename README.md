@@ -37,7 +37,7 @@
   - [**Homework 7**](HW/Homework7)
     - [Project 1](HW/Homework7/Homework7Project1): Odometer class for tracking fuel used and mpg
     - [Project 2](HW/Homework7/Homework7Project2): Temperature class to display both &deg;C and &deg;F
-  - [**Homework 8**](HW/Homework8): Determine greatest duelist of all-time
+  - [**Homework 8**](HW/Homework8): Determine greatest duelist of all-time in Puzzlevania
   - [**Homework 9**](HW/Homework9): Use class inheritance with Vehicle, Truck, and Person class
   - [**Homework 10**](HW/Homework10): Rewrite video game code as object-oriented programming (OOP)
   - [**Homework 11**](HW/Homework11): Use <code>IComparable</code> interface to sort student scores  
@@ -73,19 +73,20 @@
     - [Lab 5](LectureLabs/Lecture6/Lecture6Lab5_Try): <code>Try-catch</code> blocks
     - [Lab 6](LectureLabs/Lecture6/Lecture6Lab6_Try2): Throwing an Exception
   - [**Lecture 7 Midterm**](LectureLabs/Lecture7Midterm): 
-    - [Lab 1](LectureLabs/Lecture7Midterm/Lecture7Midterm_StudentRecord): 
-  - [**Lecture **](LectureLabs/Lecture)
-    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
-    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
-  - [**Lecture **](LectureLabs/Lecture)
-    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
-    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
-  - [**Lecture **](LectureLabs/Lecture)
-    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
-    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
-  - [**Lecture **](LectureLabs/Lecture)
-    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
-    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
+    - [Lab 1](LectureLabs/Lecture7Midterm/Lecture7Midterm_StudentRecord): Calculate weighted grade using derived methods
+  - [**Lecture 8**](LectureLabs/Lecture8)
+    - [Lab 1](LectureLabs/Lecture8/Lecture8Lab1_Pizza): Calculate cost of pizza order
+    - [Lab 2](LectureLabs/Lecture8/Lecture8Lab2_Fraction): Update [Lecture6Lab3](LectureLabs/Lecture6/Lecture6Lab3_Fraction) using properties
+  - [**Lecture 9**](LectureLabs/Lecture9)
+    - [Lab 1](LectureLabs/Lecture9/Lecture9Lab1_Fraction): Update [Lecture8Lab2](LectureLabs/Lecture8/Lecture8Lab2_Fraction) using a struct
+    - [Lab 2](LectureLabs/Lecture9/Lecture9Lab2): Override methods to use inheritance for different payment types
+  - [**Lecture 10**](LectureLabs/Lecture10)
+    - [Lab 1](LectureLabs/Lecture10/Lecture10Lab1_Sorts): Implement Selection Sort and Bubble Sort of an array
+    - [Lab 2](LectureLabs/Lecture10/Lecture10Lab2_Puzzlevania): Update [Duelist](HW/Homework8) using <code>IComparable</code> interface, List generic, and inheritance
+  - [**Lecture 11**](LectureLabs/Lecture11)
+    - [Lab 1](LectureLabs/Lecture11/Lecture11Lab1_DocumentInheritance): Use inheritance to create an e-mail from a document's text  
+      Write to a document
+    - [Lab 2](LectureLabs/Lecture11/Lecture11Lab2_Dictionary): Create a phone book using a Dictionary
   - [**Lecture **](LectureLabs/Lecture)
     - [Lab 1](LectureLabs/Lecture/LectureLab1): 
     - [Lab 2](LectureLabs/Lecture/LectureLab2): 
