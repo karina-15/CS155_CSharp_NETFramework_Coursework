@@ -17,7 +17,7 @@
 
 - [**Homework**](HW)
   - [**Homework 1**](HW/Homework1)
-    - [Part 1](HW/Homework1/Homework1Part1): Compile and run 'MyFirstProgram.cs'
+    - [Part 1](HW/Homework1/Homework1Part1): Sum of 2 numbers
     - [Part 2](HW/Homework1/Homework1Part2): Simple 3-D box picture
   - [**Homework 2**](HW/Homework2)
     - [Part 1](HW/Homework2/Homework2Part1): Write name in pig latin
@@ -40,7 +40,55 @@
   - [**Homework 8**](HW/Homework8): Determine greatest duelist of all-time
   - [**Homework 9**](HW/Homework9): Use class inheritance with Vehicle, Truck, and Person class
   - [**Homework 10**](HW/Homework10): Rewrite video game code as object-oriented programming (OOP)
-  - [**Homework 11**](HW/Homework11): Use IComparable interface to sort student scores  
+  - [**Homework 11**](HW/Homework11): Use <code>IComparable</code> interface to sort student scores  
     Read and write to file
   - [**Homework 12**](HW/Homework12): WPF GUI to calculate area of shapes using delegate  
-  - [**Homework 13**](HW/Homework13): Calculate BMI and display using queries with LINQ and IEnumerable
+  - [**Homework 13**](HW/Homework13): Calculate BMI and display using queries with LINQ and <code>IEnumerable</code>
+
+- [**Lecture Labs**](LectureLabs)
+  - [**Lecture 1**](LectureLabs/Lecture1)
+    - [Lab 1](LectureLabs/Lecture1/Lecture1Lab1): Same as [Homework1Part1](HW/Homework1/Homework1Part1)
+    - [Lab 2](LectureLabs/Lecture1/Lecture1Lab2): Simple 3x3 square box
+  - [**Lecture 2**](LectureLabs/Lecture2)
+    - [Lab 1](LectureLabs/Lecture2/Lecture2Lab1): Modify [Lecture1Lab1](LectureLabs/Lecture1/Lecture1Lab1) to add, multiply,  
+      & divide 3 numbers
+    - [Lab 2](LectureLabs/Lecture2/Lecture2Lab2): Algorithm to solve # of candy bars & gumballs  
+      to get with coupons
+  - [**Lecture 3**](LectureLabs/Lecture3)
+    - [Lab 1](LectureLabs/Lecture3/Lecture3Lab1): Add WPF GUI to pig latin program ([Homework2Part1](HW/Homework2/Homework2Part1))
+    - [Lab 2](LectureLabs/Lecture3/Lecture3Lab2): <code>If</code> statements for Lamp flowchart
+  - [**Lecture 4**](LectureLabs/Lecture4): 
+    - [Lab 1](LectureLabs/Lecture4/Lecture4Lab1): Calculate speeding ticket fine
+    - [Lab 2](LectureLabs/Lecture4/Lecture4Lab2): Create WPF GUI for speeding ticket fine
+    - [Lab 3](LectureLabs/Lecture4/Lecture4Lab3): Calculate exam scores average using <code>do-while</code> loop
+  - [**Lecture 5**](LectureLabs/Lecture5)
+    - [Lab 1](LectureLabs/Lecture5/Lecture5Lab1_FizzBuzz): Display 0-100, Fizz for x3, Buzz for x5, FizzBuzz for x3 and x5
+    - [Lab 2](LectureLabs/Lecture5/Lecture5Lab2_GuessingGame): Random number guessing game between 0-100
+    - [Lab 3](LectureLabs/Lecture5/Lecture5Lab3_GradesUpdated): Update [Lecture4Lab3](LectureLabs/Lecture4/Lecture4Lab3) to calculate standard deviation
+  - [**Lecture 6**](LectureLabs/Lecture6)
+    - [Lab 1](LectureLabs/Lecture6/Lecture6Lab1_Calculator): WPF GUI Calculator with try/catch block to input validation
+    - [Lab 2](LectureLabs/Lecture6/Lecture6Lab2_Date): Create Date class using Day, Year, and Month methods
+    - [Lab 3](LectureLabs/Lecture6/Lecture6Lab3_Fraction): Fraction class to reduce to lowest terms
+    - [Lab 4](LectureLabs/Lecture6/Lecture6Lab4_Input): WPF GUI input validation with ListBox
+    - [Lab 5](LectureLabs/Lecture6/Lecture6Lab5_Try): <code>Try-catch</code> blocks
+    - [Lab 6](LectureLabs/Lecture6/Lecture6Lab6_Try2): Throwing an Exception
+  - [**Lecture 7 Midterm**](LectureLabs/Lecture7Midterm): 
+    - [Lab 1](LectureLabs/Lecture7Midterm/Lecture7Midterm_StudentRecord): 
+  - [**Lecture **](LectureLabs/Lecture)
+    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
+    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
+  - [**Lecture **](LectureLabs/Lecture)
+    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
+    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
+  - [**Lecture **](LectureLabs/Lecture)
+    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
+    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
+  - [**Lecture **](LectureLabs/Lecture)
+    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
+    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
+  - [**Lecture **](LectureLabs/Lecture)
+    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
+    - [Lab 2](LectureLabs/Lecture/LectureLab2): 
+  - [**Lecture **](LectureLabs/Lecture)
+    - [Lab 1](LectureLabs/Lecture/LectureLab1): 
+    - [Lab 2](LectureLabs/Lecture/LectureLab2): 

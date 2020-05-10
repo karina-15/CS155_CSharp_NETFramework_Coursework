@@ -10,9 +10,9 @@ namespace Lecture11Lab2_Dictionary
     {
         static void Main(string[] args)
         {
-            Dictionary<string, int> phoneList = new Dictionary<string, int>();
+            Dictionary<string, long> phoneList = new Dictionary<string, long>();
             String name;
-            int phoneNum;
+            long phoneNum;
             int choice = 0;
             do
             {
@@ -28,7 +28,7 @@ namespace Lecture11Lab2_Dictionary
                         Console.WriteLine("Enter name: ");
                         name = Console.ReadLine();
                         Console.WriteLine("Enter phone number: ");
-                        phoneNum = Convert.ToInt32(Console.ReadLine());
+                        phoneNum = Convert.ToInt64(Console.ReadLine());
                         phoneList.Add(name, phoneNum);
                         break;
                     case 2:
@@ -58,7 +58,7 @@ namespace Lecture11Lab2_Dictionary
                         break;
                     case 4:
                         Console.WriteLine("---Phone List---");
-                        foreach(KeyValuePair<string, int> kv in phoneList)
+                        foreach(KeyValuePair<string, long> kv in phoneList)
                         {
                             Console.WriteLine("Name: {0}\tPhone#: {1}", kv.Key, kv.Value);
                         }
