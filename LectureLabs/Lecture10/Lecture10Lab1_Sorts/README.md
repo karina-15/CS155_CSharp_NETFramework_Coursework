@@ -1,8 +1,7 @@
 # Lecture10Lab1_Sorts
 > Implement Selection Sort and Bubble Sort of an array
 
-## Screenshot
----
+## Screenshot</br>
 **Selection Sort**
 ![screenshot](Lecture10Lab1_Sorts_SelectionSort.gif)
 ---
