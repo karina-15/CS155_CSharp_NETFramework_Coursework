@@ -5,7 +5,7 @@
 #### **Selection Sort**
 ![screenshot](Lecture10Lab1_Sorts_SelectionSort.gif)
 ---
-**Bubble Sort**
+#### **Bubble Sort**
 ![screenshot](Lecture10Lab1_Sorts_BubbleSort.gif)
 
 ## Instructions
