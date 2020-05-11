@@ -2,6 +2,7 @@
 > WPF GUI for monthly mortgage payment
 
 ## Screenshot
+![screenshot](Homework3Project1.gif)
 
 ## Instructions
 > Write a GUI program that reads in the amount of a monthly mortgage  
