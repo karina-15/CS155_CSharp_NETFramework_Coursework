@@ -12,4 +12,5 @@
 > Version of Visual Studio doesn't support WPF which we will use a little  
 > in the course.  
 > Install the GitHub Visual Studio Extension  
-> Compile and run the file MyFirstProgram.cs(copy and paste). Review the code and make sure you understand what is being accomplished.
+> Compile and run the file MyFirstProgram.cs(copy and paste).  
+> Review the code and make sure you understand what is being accomplished.
