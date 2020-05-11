@@ -391,11 +391,11 @@ namespace MidtermExtraCredit
         public override string ToString()
         {
             Console.Clear();
-            return String.Format("Item: {0, -15}" +
-                "Price:{1, -15:C2}" +
-                "Quantity:{2, -15}" +
-                "Total for item:{3, -15:C2}" +
-                "\nTotal:{4, -15:C2}",
+            return String.Format("Item: {0, -17}" +
+                "Price:{1, -7:C2}" +
+                "Quantity:{2, -5}" +
+                "Total for item:{3, 0:C2}" +
+                "\nTotal:{4, 0:C2}",
                 GetName(), GetPrice(), GetQuantity(), GetTotalPricePerItem(), GetTotal());
         }
     }
