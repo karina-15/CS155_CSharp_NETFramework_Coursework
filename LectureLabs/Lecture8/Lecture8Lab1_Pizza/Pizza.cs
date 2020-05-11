@@ -132,7 +132,12 @@ namespace Lecture8Lab1_Pizza
                 "\nCheese Toppings: {1}" +
                 "\nPepperoni Toppings: {2}" +
                 "\nHam Toppings: {3}" +
-                "\nTotal Cost: {4:C2}", size, GetCheeseToppings(), GetPepperoniToppings(), GetHamToppings(), CalculateCost());
+                "\nTotal Cost: {4:C2}", 
+                size, 
+                GetCheeseToppings(), 
+                GetPepperoniToppings(), 
+                GetHamToppings(), 
+                CalculateCost());
             return str;
         }
     }
