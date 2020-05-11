@@ -58,6 +58,7 @@
   - [**Lecture 3**](LectureLabs/Lecture3)
     - [Lab 1](LectureLabs/Lecture3/Lecture3Lab1): Add WPF GUI to pig latin program ([Homework2Part1](HW/Homework2/Homework2Part1))
     - [Lab 2](LectureLabs/Lecture3/Lecture3Lab2): <code>If</code> statements for Lamp flowchart
+	- [Lab 3](LectureLabs/Lecture3/Lecture3Lab3): Switch statement to calculate vehicle type toll
   - [**Lecture 4**](LectureLabs/Lecture4): 
     - [Lab 1](LectureLabs/Lecture4/Lecture4Lab1): Calculate speeding ticket fine
     - [Lab 2](LectureLabs/Lecture4/Lecture4Lab2): Create WPF GUI for speeding ticket fine
