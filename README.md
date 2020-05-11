@@ -10,9 +10,6 @@
 > system. C# is designed for modern software development and provides the tools  
 > to build applications quickly.
 
-**Textbook**
-> The C# Player’s Guide, 3rd Edition, Whitaker, 2017; ISBN: 978-0-9855801-3-1
-
 ## Table of Contents
 
 - [**Midterm Extra Credit**](MidtermExtraCredit): Simple restaurant bill calculator
@@ -102,3 +99,6 @@
     - [Lab 3](LectureLabs/Lecture13/Lecture13Lab2_LINQ): LINQ query with <code>IEnumerable</code> to return data set of people
   - [**Lecture 14**](LectureLabs/Lecture14)
     - [Lab 1](LectureLabs/Lecture14/Lecture14Lab1_NuGet): Install NuGet package Newtonsoft.Json for JSON use
+---
+**Textbook**
+> The C# Player’s Guide, 3rd Edition, Whitaker, 2017; ISBN: 978-0-9855801-3-1
