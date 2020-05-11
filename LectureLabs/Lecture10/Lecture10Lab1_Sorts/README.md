@@ -2,8 +2,8 @@
 > Implement Selection Sort and Bubble Sort of an array
 
 ## Screenshot
-![screenshot](Lecture10Lab1_Sorts_SelectionSort.png)
-![screenshot](Lecture10Lab1_Sorts_BubbleSort.png)
+![screenshot](Lecture10Lab1_Sorts_SelectionSort.gif)
+![screenshot](Lecture10Lab1_Sorts_BubbleSort.gif)
 
 ## Instructions
 > Copy the Bubble Sort and Selection Sort code and test it.  
