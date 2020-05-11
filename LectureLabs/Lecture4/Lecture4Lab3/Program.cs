@@ -78,11 +78,11 @@ namespace Lecture4Lab3
                 double average = gradeSum / numberOfGrades;
 
                 Console.WriteLine("Total number of grades = {0}", numberOfGrades);
-                Console.WriteLine("Total number of A's = {0} which is {1}%", numberOfA, Math.Round((numberOfA / (double)numberOfGrades) * 100));
-                Console.WriteLine("Total number of B's = {0} which is {1}%", numberOfB, Math.Round((numberOfB / (double)numberOfGrades) * 100));
-                Console.WriteLine("Total number of C's = {0} which is {1}%", numberOfC, Math.Round((numberOfC / (double)numberOfGrades) * 100));
-                Console.WriteLine("Total number of D's = {0} which is {1}%", numberOfD, Math.Round((numberOfD / (double)numberOfGrades) * 100));
-                Console.WriteLine("Total number of F's = {0} which is {1}%", numberOfF, Math.Round((numberOfF / (double)numberOfGrades) * 100));
+                Console.WriteLine("Total number of A's = {0} which is {1:P1}", numberOfA, Math.Round((numberOfA / (double)numberOfGrades) * 100));
+                Console.WriteLine("Total number of B's = {0} which is {1:P1}", numberOfB, Math.Round((numberOfB / (double)numberOfGrades) * 100));
+                Console.WriteLine("Total number of C's = {0} which is {1:P1}", numberOfC, Math.Round((numberOfC / (double)numberOfGrades) * 100));
+                Console.WriteLine("Total number of D's = {0} which is {1:P1}", numberOfD, Math.Round((numberOfD / (double)numberOfGrades) * 100));
+                Console.WriteLine("Total number of F's = {0} which is {1:P1}", numberOfF, Math.Round((numberOfF / (double)numberOfGrades) * 100));
                 Console.WriteLine("Average = {0}", average);
             }
 

@@ -8,6 +8,12 @@ namespace Lecture4Lab1
 {
     class Program
     {
+        // constants
+        const int FINE = 60;
+        const int FINE_EA_MILE = 7;
+        const int EXCESS_SPEED = 25;
+        const int EXCESS_FINE = 250;
+
         static void Main(string[] args)
         {
             int speedLimit, clockedSpeed, fine;

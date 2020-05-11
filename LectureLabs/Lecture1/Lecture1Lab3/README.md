@@ -1,7 +1,5 @@
-# 
-> 
+# Lecture1Lab3
+> Sample comments, constants, prefix/postfix increment, substrings
 
 ## Screenshot
-
-## Instructions
-> 
+![screenshot](Lecture1Lab3.png)

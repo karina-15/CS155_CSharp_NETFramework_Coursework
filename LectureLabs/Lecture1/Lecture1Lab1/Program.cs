@@ -26,7 +26,10 @@ namespace Lecture1Lab1
             // calculate sum, product, & division
             sum = n1 + n2;
             product = n1 * n2;
-            division = sum / product;
+            if(n1 >= n2)
+                division = n1 / n2;
+            else
+                division = n2 / n1;
 
             // display results
             Console.WriteLine("Sum = " + sum);
