@@ -60,7 +60,7 @@ namespace Lecture6Lab1_Calculator
                 else if (Convert.ToString(operatorListBox.SelectedItem) == "/")
                 {
                     result = num1 / num2;
-                    messageTextBox.Text = String.Format("{0} / {1} = {2}", num1, num2, result);
+                    messageTextBox.Text = String.Format("{0} / {1} = {2}", num1, num2, Math.Round(result, 4));
                 }
                 else if (Convert.ToString(operatorListBox.SelectedItem) == "%")
                 {
