@@ -2,6 +2,7 @@
 > Implement Selection Sort and Bubble Sort of an array
 
 ## Screenshot  
+
 **Selection Sort**
 ![screenshot](Lecture10Lab1_Sorts_SelectionSort.gif)
 ---
