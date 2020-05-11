@@ -10,6 +10,7 @@
 > program, creativity, and originality.
 
 ## Tasks
+> Tasks I wish to implement:  
 > [ ] Message to user before exiting program  
 > [ ] Display price of each item to user  
 > [ ] Add `List` for menu items  
