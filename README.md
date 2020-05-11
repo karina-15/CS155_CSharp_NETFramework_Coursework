@@ -15,6 +15,8 @@
 
 ## Table of Contents
 
+![screenshot]()
+
 - [**Midterm Extra Credit**](MidtermExtraCredit): Simple restaurant bill calculator
 - [**Homework**](HW)
   - [**Homework 1**](HW/Homework1)
