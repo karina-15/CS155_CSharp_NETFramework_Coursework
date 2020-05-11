@@ -49,6 +49,7 @@
   - [**Lecture 1**](LectureLabs/Lecture1)
     - [Lab 1](LectureLabs/Lecture1/Lecture1Lab1): Same as [Homework1Part1](HW/Homework1/Homework1Part1)
     - [Lab 2](LectureLabs/Lecture1/Lecture1Lab2): Simple 3x3 square box
+	- [Lab 3](LectureLabs/Lecture1/Lecture1Lab3): Sample comments, constants, prefix/postfix increment, substrings
   - [**Lecture 2**](LectureLabs/Lecture2)
     - [Lab 1](LectureLabs/Lecture2/Lecture2Lab1): Modify [Lecture1Lab1](LectureLabs/Lecture1/Lecture1Lab1) to add, multiply,  
       & divide 3 numbers
