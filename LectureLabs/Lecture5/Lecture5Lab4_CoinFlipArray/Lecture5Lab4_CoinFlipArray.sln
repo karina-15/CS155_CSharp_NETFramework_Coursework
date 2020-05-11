@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture5_Lab2_CoinFlipArray", "Lecture5_Lab2_CoinFlipArray.csproj", "{F7C24E22-BF9A-4E3C-8D97-93B6CAE788DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture5Lab4_CoinFlipArray", "Lecture5Lab4_CoinFlipArray.csproj", "{A688828A-EFC1-4A1F-B420-0917CC197729}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F7C24E22-BF9A-4E3C-8D97-93B6CAE788DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7C24E22-BF9A-4E3C-8D97-93B6CAE788DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7C24E22-BF9A-4E3C-8D97-93B6CAE788DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7C24E22-BF9A-4E3C-8D97-93B6CAE788DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A688828A-EFC1-4A1F-B420-0917CC197729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A688828A-EFC1-4A1F-B420-0917CC197729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A688828A-EFC1-4A1F-B420-0917CC197729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A688828A-EFC1-4A1F-B420-0917CC197729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FC8A73A8-CFB2-4634-85FC-7977D891643E}
+		SolutionGuid = {5227DC11-DC77-4DE5-9E15-1F0261A5E0D1}
 	EndGlobalSection
 EndGlobal
