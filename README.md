@@ -15,8 +15,6 @@
 
 ## Table of Contents
 
-![screenshot]()
-
 - [**Midterm Extra Credit**](MidtermExtraCredit): Simple restaurant bill calculator
 ---
 - [**Homework**](HW)
@@ -84,9 +82,9 @@
     - [Lab 1](LectureLabs/Lecture7Midterm/Lecture7Midterm_StudentRecord): Calculate weighted grade using derived methods
   - [**Lecture 8**](LectureLabs/Lecture8)
     - [Lab 1](LectureLabs/Lecture8/Lecture8Lab1_Pizza): Calculate cost of pizza order
-    - [Lab 2](LectureLabs/Lecture8/Lecture8Lab2_Fraction): Update [Lecture6Lab3](LectureLabs/Lecture6/Lecture6Lab3_Fraction) using properties
+    - [Lab 2](LectureLabs/Lecture8/Lecture8Lab2_Fraction): Update [Lecture6Lab3_Fraction](LectureLabs/Lecture6/Lecture6Lab3_Fraction) using properties
   - [**Lecture 9**](LectureLabs/Lecture9)
-    - [Lab 1](LectureLabs/Lecture9/Lecture9Lab1_Fraction): Update [Lecture8Lab2](LectureLabs/Lecture8/Lecture8Lab2_Fraction) using a struct
+    - [Lab 1](LectureLabs/Lecture9/Lecture9Lab1_Fraction): Update [Lecture8Lab2_Fraction](LectureLabs/Lecture8/Lecture8Lab2_Fraction) using a struct
     - [Lab 2](LectureLabs/Lecture9/Lecture9Lab2): Override methods to use inheritance for different payment types
   - [**Lecture 10**](LectureLabs/Lecture10)
     - [Lab 1](LectureLabs/Lecture10/Lecture10Lab1_Sorts): Implement Selection Sort and Bubble Sort of an array

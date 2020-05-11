@@ -52,7 +52,7 @@ namespace Lecture12Lab1
         private static bool Process(Dictionary<string, Name> boyNames, Dictionary<string, Name> girlsNames)
         {
             // get user input
-            Console.WriteLine("Enter names of child or quit to exit:");
+            Console.Write("Enter names of child or quit to exit:\n> ");
             string input = Console.ReadLine();
             input = input.ToLower();
 
@@ -65,6 +65,7 @@ namespace Lecture12Lab1
             // display info for boy & girl name
             Output(input, boyNames, "boys");
             Output(input, girlsNames, "girls");
+            Console.WriteLine();
 
             return true;
         }
@@ -77,6 +78,10 @@ namespace Lecture12Lab1
             {
                 nameInfo = dict[name];
             }
+
+            // capitalize 1st letter of name
+            name = name.Substring(0, 1).ToUpper() + name.Substring(1);
+
             // name (key) not found
             if (nameInfo == null)
             {
@@ -84,7 +89,7 @@ namespace Lecture12Lab1
             }
             else  // display where name was found & its rank in list & how many names there were
             {
-                Console.WriteLine("{0} is ranked {1} in popularity among {2} with {3} namings.",
+                Console.WriteLine("{0} is ranked {1} in popularity among {2} with\n  {3} namings.",
                     name, nameInfo.Rank, gender, nameInfo.Count);
             }
         }
