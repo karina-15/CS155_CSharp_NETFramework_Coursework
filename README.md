@@ -63,6 +63,7 @@
     - [Lab 1](LectureLabs/Lecture4/Lecture4Lab1): Calculate speeding ticket fine
     - [Lab 2](LectureLabs/Lecture4/Lecture4Lab2): Create WPF GUI for speeding ticket fine
     - [Lab 3](LectureLabs/Lecture4/Lecture4Lab3): Calculate exam scores average using <code>do-while</code> loop
+	- [Lab 4](LectureLabs/Lecture4/Lecture4Lab4): Nested for loop 100 line trace
   - [**Lecture 5**](LectureLabs/Lecture5)
     - [Lab 1](LectureLabs/Lecture5/Lecture5Lab1_FizzBuzz): Display 0-100, Fizz for x3, Buzz for x5, FizzBuzz for x3 and x5
     - [Lab 2](LectureLabs/Lecture5/Lecture5Lab2_GuessingGame): Random number guessing game between 0-100

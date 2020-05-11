@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FBE3D768-5ED5-430F-991B-F6EAD29BD147}</ProjectGuid>
+    <ProjectGuid>{AEE8D9A1-A98C-4F18-BE36-433C4A718255}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lecture3SwitchDemo</RootNamespace>
-    <AssemblyName>Lecture3SwitchDemo</AssemblyName>
+    <RootNamespace>Lecture4Lab4</RootNamespace>
+    <AssemblyName>Lecture4Lab4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Lecture4Lab4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
