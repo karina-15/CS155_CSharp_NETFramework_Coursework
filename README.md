@@ -18,7 +18,7 @@
 ![screenshot]()
 
 - [**Midterm Extra Credit**](MidtermExtraCredit): Simple restaurant bill calculator
-
+---
 - [**Homework**](HW)
   - [**Homework 1**](HW/Homework1)
     - [Part 1](HW/Homework1/Homework1Part1): Sum of 2 numbers
@@ -48,12 +48,12 @@
     Read and write to file
   - [**Homework 12**](HW/Homework12): WPF GUI to calculate area of shapes using delegate  
   - [**Homework 13**](HW/Homework13): Calculate BMI and display using queries with LINQ and <code>IEnumerable</code>
-
+---
 - [**Lecture Labs**](LectureLabs)
   - [**Lecture 1**](LectureLabs/Lecture1)
     - [Lab 1](LectureLabs/Lecture1/Lecture1Lab1): Same as [Homework1Part1](HW/Homework1/Homework1Part1)
     - [Lab 2](LectureLabs/Lecture1/Lecture1Lab2): Simple 3x3 square box
-	  - [Lab 3](LectureLabs/Lecture1/Lecture1Lab3): Sample comments, constants, prefix/postfix increment, substrings
+  - [Lab 3](LectureLabs/Lecture1/Lecture1Lab3): Sample comments, constants, prefix/postfix increment, substrings
   - [**Lecture 2**](LectureLabs/Lecture2)
     - [Lab 1](LectureLabs/Lecture2/Lecture2Lab1): Modify [Lecture1Lab1](LectureLabs/Lecture1/Lecture1Lab1) to add, multiply,  
       & divide 3 numbers
@@ -62,17 +62,17 @@
   - [**Lecture 3**](LectureLabs/Lecture3)
     - [Lab 1](LectureLabs/Lecture3/Lecture3Lab1): Add WPF GUI to pig latin program ([Homework2Part1](HW/Homework2/Homework2Part1))
     - [Lab 2](LectureLabs/Lecture3/Lecture3Lab2): <code>If</code> statements for Lamp flowchart
-	  - [Lab 3](LectureLabs/Lecture3/Lecture3Lab3): Switch statement to calculate vehicle type toll
+  - [Lab 3](LectureLabs/Lecture3/Lecture3Lab3): Switch statement to calculate vehicle type toll
   - [**Lecture 4**](LectureLabs/Lecture4): 
     - [Lab 1](LectureLabs/Lecture4/Lecture4Lab1): Calculate speeding ticket fine
     - [Lab 2](LectureLabs/Lecture4/Lecture4Lab2): Create WPF GUI for speeding ticket fine
     - [Lab 3](LectureLabs/Lecture4/Lecture4Lab3): Calculate exam scores average using <code>do-while</code> loop
-	  - [Lab 4](LectureLabs/Lecture4/Lecture4Lab4): Nested <code>for</code> loop 100 line trace
+  - [Lab 4](LectureLabs/Lecture4/Lecture4Lab4): Nested <code>for</code> loop 100 line trace
   - [**Lecture 5**](LectureLabs/Lecture5)
     - [Lab 1](LectureLabs/Lecture5/Lecture5Lab1_FizzBuzz): Display 0-100, Fizz for x3, Buzz for x5, FizzBuzz for x3 and x5
     - [Lab 2](LectureLabs/Lecture5/Lecture5Lab2_GuessingGame): Random number guessing game between 0-100
     - [Lab 3](LectureLabs/Lecture5/Lecture5Lab3_GradesUpdated): Update [Lecture4Lab3](LectureLabs/Lecture4/Lecture4Lab3) to calculate standard deviation
-	  - [Lab 4](LectureLabs/Lecture5/Lecture5Lab4_CoinFlipArray): Calculate percentage of heads/tails using an array, enumeration, and random
+  - [Lab 4](LectureLabs/Lecture5/Lecture5Lab4_CoinFlipArray): Calculate percentage of heads/tails using an array, enumeration, and random
   - [**Lecture 6**](LectureLabs/Lecture6)
     - [Lab 1](LectureLabs/Lecture6/Lecture6Lab1_Calculator): WPF GUI Calculator with try/catch block to input validation
     - [Lab 2](LectureLabs/Lecture6/Lecture6Lab2_Date): Create Date class using Day, Year, and Month methods
@@ -101,6 +101,6 @@
   - [**Lecture 13**](LectureLabs/Lecture13)
     - [Lab 1](LectureLabs/Lecture13/Lecture13Lab1_Delegates): Use delegates on methods
     - [Lab 2](LectureLabs/Lecture13/Lecture13Lab2_3DVectors): Operator overloading with 3D vectors
-	  - [Lab 3](LectureLabs/Lecture13/Lecture13Lab2_LINQ): LINQ query with <code>IEnumerable</code> to return data set of people
+  - [Lab 3](LectureLabs/Lecture13/Lecture13Lab2_LINQ): LINQ query with <code>IEnumerable</code> to return data set of people
   - [**Lecture 14**](LectureLabs/Lecture14)
     - [Lab 1](LectureLabs/Lecture14/Lecture14Lab1_NuGet): Install NuGet package Newtonsoft.Json for JSON use

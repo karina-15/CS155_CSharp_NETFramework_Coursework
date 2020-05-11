@@ -63,15 +63,15 @@ namespace Lecture5Lab3_GradesUpdated
             }
             else
             {
-                double average = gradeSum / numberOfGrades;
+                 double average = gradeSum / (double)numberOfGrades;
 
                 Console.WriteLine("Total number of grades = {0}", numberOfGrades);
-                Console.WriteLine("Total number of A's = {0} which is {1:P1}", numberOfA, Math.Round((numberOfA / (double)numberOfGrades)));
-                Console.WriteLine("Total number of B's = {0} which is {1:P1}", numberOfB, Math.Round((numberOfB / (double)numberOfGrades)));
-                Console.WriteLine("Total number of C's = {0} which is {1:P1}", numberOfC, Math.Round((numberOfC / (double)numberOfGrades)));
-                Console.WriteLine("Total number of D's = {0} which is {1:P1}", numberOfD, Math.Round((numberOfD / (double)numberOfGrades)));
-                Console.WriteLine("Total number of F's = {0} which is {1:P1}", numberOfF, Math.Round((numberOfF / (double)numberOfGrades)));
-                Console.WriteLine("Average = {0}", average);
+                Console.WriteLine("Total number of A's = {0} which is {1:P2}", numberOfA, numberOfA / (double)numberOfGrades);
+                Console.WriteLine("Total number of B's = {0} which is {1:P2}", numberOfB, numberOfB / (double)numberOfGrades);
+                Console.WriteLine("Total number of C's = {0} which is {1:P2}", numberOfC, numberOfC / (double)numberOfGrades);
+                Console.WriteLine("Total number of D's = {0} which is {1:P2}", numberOfD, numberOfD / (double)numberOfGrades);
+                Console.WriteLine("Total number of F's = {0} which is {1:P2}", numberOfF, numberOfF / (double)numberOfGrades);
+                Console.WriteLine("Average = {0}", Math.Round(average, 2));
 
                 // Updated for standard deviation
                 double summation = 0;

@@ -11,7 +11,7 @@ namespace Lecture5Lab4_CoinFlipArray
         // enumeration for coin
         public enum Coin { Heads, Tails };
         // constant
-        const int FLIPS = 8;
+        const int FLIPS = 10000;
         static void Main(string[] args)
         {
             Random rand = new Random();

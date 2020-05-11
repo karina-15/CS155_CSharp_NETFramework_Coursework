@@ -2,7 +2,7 @@
 > Update [Lecture4Lab3](LectureLabs/Lecture4/Lecture4Lab3) to calculate standard deviation
 
 ## Screenshot
-![screenshot](Lecture5Lab3_GradesUpdated.)
+![screenshot](Lecture5Lab3_GradesUpdated.gif)
 
 ## Instructions
 > Write a program to read in a list of exam scores…  
