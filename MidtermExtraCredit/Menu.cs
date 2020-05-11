@@ -58,6 +58,7 @@ namespace MidtermExtraCredit
 
         public Menu EntreePick()
         {
+            Console.Clear();
             int choice = -1;
             Console.WriteLine("Pick an entree");
             do
@@ -140,6 +141,7 @@ namespace MidtermExtraCredit
 
         public Menu SidePick()
         {
+            Console.Clear();
             int choice = -1;
             Console.WriteLine("Pick a side");
             do
@@ -222,6 +224,7 @@ namespace MidtermExtraCredit
 
         public Menu DrinkPick()
         {
+            Console.Clear();
             int choice = -1;
             Console.WriteLine("Pick a drink");
             do
@@ -304,6 +307,7 @@ namespace MidtermExtraCredit
 
         public Menu DessertPick()
         {
+            Console.Clear();
             int choice = -1;
             Console.WriteLine("Pick a dessert");
             do
@@ -386,6 +390,7 @@ namespace MidtermExtraCredit
 
         public override string ToString()
         {
+            Console.Clear();
             return String.Format("Item: {0, -15}" +
                 "Price:{1, -15:C2}" +
                 "Quantity:{2, -15}" +
