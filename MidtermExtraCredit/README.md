@@ -13,5 +13,5 @@
 > [ ] Message to user before exiting program  
 > [ ] Display price of each item to user  
 > [ ] Add `List` for menu items  
-> [ ] Display full list of items in current order (see [Lecture8Lab1_Pizza](LectureLabs/Lecture8/Lecture8Lab1_Pizza))  
+> [ ] Display full list of items in current order (see [Lecture8Lab1_Pizza](../LectureLabs/Lecture8/Lecture8Lab1_Pizza))  
 > [ ] Implement as WPF GUI  
